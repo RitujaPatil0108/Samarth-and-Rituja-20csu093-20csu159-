@@ -1,0 +1,1043 @@
+{
+    "apikey": "738a230f-ddc7-41a7-8269-b760feb3c416",
+    "data": [
+        {
+            "id": "dc7194e4-0123-42a8-bbe2-fdbbeed9b3d2",
+            "name": "Tbc vs Tbc, Eliminator",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Dr DY Patil Sports Academy, Mumbai",
+            "date": "2023-03-24",
+            "dateTimeGMT": "2023-03-24T14:00:00",
+            "teams": [
+                "Tbc",
+                "Tbc"
+            ],
+            "series_id": "bcd3baa8-eea5-4682-a6fd-c8b3fbad70a2",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "5e0e1e67-01e4-430a-bb49-7be9f5adad3d",
+            "name": "Western Australia vs Victoria, Final",
+            "matchType": "test",
+            "status": "Match not started",
+            "venue": "W.A.C.A. Ground, Perth",
+            "date": "2023-03-23",
+            "dateTimeGMT": "2023-03-23T02:00:00",
+            "teams": [
+                "Western Australia",
+                "Victoria"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Victoria",
+                    "shortname": "VIC",
+                    "img": "https://g.cricapi.com/img/teams/96-637987557199223762.webp"
+                },
+                {
+                    "name": "Western Australia",
+                    "shortname": "WA",
+                    "img": "https://g.cricapi.com/img/teams/103-637987555730367982.webp"
+                }
+            ],
+            "series_id": "1406464f-cdd1-4213-9e6f-217da470dcff",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "bb5f488a-72a3-4cea-b8f1-ede622860190",
+            "name": "World Giants vs Asia Lions, Final",
+            "matchType": "t20",
+            "status": "Asia Lions won by 7 wkts",
+            "venue": "West End Park International Cricket Stadium, Doha",
+            "date": "2023-03-20",
+            "dateTimeGMT": "2023-03-20T14:30:00",
+            "teams": [
+                "World Giants",
+                "Asia Lions"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Asia Lions",
+                    "shortname": "ALN",
+                    "img": "https://g.cricapi.com/img/teams/109-637959254545315360.webp"
+                },
+                {
+                    "name": "World Giants",
+                    "shortname": "WGS",
+                    "img": "https://g.cricapi.com/img/teams/306-637932274309459506.webp"
+                }
+            ],
+            "score": [
+                {
+                    "r": 147,
+                    "w": 4,
+                    "o": 20,
+                    "inning": "World Giants Inning 1"
+                },
+                {
+                    "r": 148,
+                    "w": 3,
+                    "o": 16.1,
+                    "inning": "Asia Lions Inning 1"
+                }
+            ],
+            "series_id": "4f229776-6b02-4f7b-abd5-0fc68bdac677",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "fd2d1cce-3a8b-4ab1-b354-d752c606ae32",
+            "name": "Multan Sultans vs Lahore Qalandars, Final",
+            "matchType": "t20",
+            "status": "Lahore Qalandars won by 1 run",
+            "venue": "Gaddafi Stadium, Lahore",
+            "date": "2023-03-19",
+            "dateTimeGMT": "2023-03-19T14:00:00",
+            "teams": [
+                "Multan Sultans",
+                "Lahore Qalandars"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Lahore Qalandars",
+                    "shortname": "LHQ",
+                    "img": "https://g.cricapi.com/img/teams/41-637991979136379824.webp"
+                },
+                {
+                    "name": "Multan Sultans",
+                    "shortname": "MS",
+                    "img": "https://g.cricapi.com/img/teams/50-637991992950999418.webp"
+                }
+            ],
+            "score": [
+                {
+                    "r": 200,
+                    "w": 6,
+                    "o": 20,
+                    "inning": "Lahore Qalandars Inning 1"
+                },
+                {
+                    "r": 199,
+                    "w": 8,
+                    "o": 20,
+                    "inning": "Multan Sultans Inning 1"
+                }
+            ],
+            "series_id": "45330bd2-1ffd-476f-95be-f4605a89713e",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "085ae9ac-0d46-4683-acc6-7d1ef16c0118",
+            "name": "Sri Lanka vs Ireland, 2nd Test",
+            "matchType": "test",
+            "status": "Match not started",
+            "venue": "Galle International Stadium, Galle",
+            "date": "2023-04-24",
+            "dateTimeGMT": "2023-04-24T04:30:00",
+            "teams": [
+                "Ireland",
+                "Ireland"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Ireland",
+                    "shortname": "IRE",
+                    "img": "https://g.cricapi.com/img/teams/33-637926315578500224.png"
+                }
+            ],
+            "series_id": "e66882b1-0ec1-464c-bb29-d3d450317bf4",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "ff3bafe2-cbb7-4e07-9443-703455b435ea",
+            "name": "Sri Lanka vs Ireland, 1st Test",
+            "matchType": "test",
+            "status": "Match not started",
+            "venue": "Galle International Stadium, Galle",
+            "date": "2023-04-16",
+            "dateTimeGMT": "2023-04-16T04:30:00",
+            "teams": [
+                "Ireland",
+                "Ireland"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Ireland",
+                    "shortname": "IRE",
+                    "img": "https://g.cricapi.com/img/teams/33-637926315578500224.png"
+                }
+            ],
+            "series_id": "e66882b1-0ec1-464c-bb29-d3d450317bf4",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "6c9641df-2cde-4cbb-bab1-a870b2ff12ad",
+            "name": "Asia Lions vs India Maharajas, Eliminator (2 v 3)",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "West End Park International Cricket Stadium, Doha",
+            "date": "2023-03-18",
+            "dateTimeGMT": "2023-03-18T14:30:00",
+            "teams": [
+                "Asia Lions",
+                "India Maharajas"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Asia Lions",
+                    "shortname": "ALN",
+                    "img": "https://g.cricapi.com/img/teams/109-637959254545315360.webp"
+                },
+                {
+                    "name": "India Maharajas",
+                    "shortname": "IMR",
+                    "img": "https://g.cricapi.com/img/teams/183-637945147945831857.webp"
+                }
+            ],
+            "score": [],
+            "series_id": "4f229776-6b02-4f7b-abd5-0fc68bdac677",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "5655ff68-1c44-4d7a-8e32-42058dac4ad3",
+            "name": "Australia vs India, Final",
+            "matchType": "test",
+            "status": "Match not started",
+            "venue": "Kennington Oval, London",
+            "date": "2023-06-07",
+            "dateTimeGMT": "2023-06-07T10:00:00",
+            "teams": [
+                "Australia",
+                "India"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Australia",
+                    "shortname": "AUS",
+                    "img": "https://g.cricapi.com/img/teams/6-637877070670541994.webp"
+                },
+                {
+                    "name": "India",
+                    "shortname": "IND",
+                    "img": "https://g.cricapi.com/img/teams/31-637877061080567215.webp"
+                }
+            ],
+            "series_id": "bd6e5de5-10fd-4476-9806-ddff16bf834c",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "8a65fb3f-355f-4333-a54b-ce1e6f4a950e",
+            "name": "Lahore Qalandars vs Peshawar Zalmi, Eliminator 2 (loser Qualifier v winner Eliminator 1)",
+            "matchType": "t20",
+            "status": "Lahore Qalandars won by 4 wkts",
+            "venue": "Gaddafi Stadium, Lahore",
+            "date": "2023-03-17",
+            "dateTimeGMT": "2023-03-17T14:00:00",
+            "teams": [
+                "Lahore Qalandars",
+                "Peshawar Zalmi"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Lahore Qalandars",
+                    "shortname": "LHQ",
+                    "img": "https://g.cricapi.com/img/teams/41-637991979136379824.webp"
+                },
+                {
+                    "name": "Peshawar Zalmi",
+                    "shortname": "PSZ",
+                    "img": "https://g.cricapi.com/img/teams/69-637992644554994835.webp"
+                }
+            ],
+            "score": [
+                {
+                    "r": 171,
+                    "w": 5,
+                    "o": 20,
+                    "inning": "Peshawar Zalmi Inning 1"
+                },
+                {
+                    "r": 176,
+                    "w": 6,
+                    "o": 18.5,
+                    "inning": "Lahore Qalandars Inning 1"
+                }
+            ],
+            "series_id": "45330bd2-1ffd-476f-95be-f4605a89713e",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "ab38ba79-845e-444c-aacb-b95f29a794e4",
+            "name": "Nepal vs United Arab Emirates, 6th Match",
+            "matchType": "odi",
+            "status": "Nepal won by 9 Runs - Reduced to 44 overs - DLS Method ( Target 261)",
+            "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+            "date": "2023-03-16",
+            "dateTimeGMT": "2023-03-16T03:45:00",
+            "teams": [
+                "Nepal",
+                "United Arab Emirates"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Nepal",
+                    "shortname": "NEP",
+                    "img": "https://g.cricapi.com/img/teams/54-637877084789981539.webp"
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "shortname": "UAE",
+                    "img": "https://g.cricapi.com/img/teams/92-637877081068315608.webp"
+                }
+            ],
+            "score": [
+                {
+                    "r": 310,
+                    "w": 6,
+                    "o": 50,
+                    "inning": "United Arab Emirates Inning 1"
+                },
+                {
+                    "r": 269,
+                    "w": 6,
+                    "o": 44,
+                    "inning": "Nepal Inning 1"
+                }
+            ],
+            "series_id": "638e7c98-fe04-4c84-946e-699f0abdc00c",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "1d093bfc-6ccc-4105-a6a4-056664adff86",
+            "name": "Islamabad United vs Peshawar Zalmi, Eliminator 1 (3 v 4)",
+            "matchType": "t20",
+            "status": "Peshawar Zalmi won by 12 runs",
+            "venue": "Gaddafi Stadium, Lahore",
+            "date": "2023-03-16",
+            "dateTimeGMT": "2023-03-16T14:00:00",
+            "teams": [
+                "Islamabad United",
+                "Peshawar Zalmi"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Islamabad United",
+                    "shortname": "ISU",
+                    "img": "https://g.cricapi.com/img/teams/34-637992689284766336.webp"
+                },
+                {
+                    "name": "Peshawar Zalmi",
+                    "shortname": "PSZ",
+                    "img": "https://g.cricapi.com/img/teams/69-637992644554994835.webp"
+                }
+            ],
+            "score": [
+                {
+                    "r": 183,
+                    "w": 8,
+                    "o": 20,
+                    "inning": "Peshawar Zalmi Inning 1"
+                },
+                {
+                    "r": 171,
+                    "w": 6,
+                    "o": 20,
+                    "inning": "Islamabad United Inning 1"
+                }
+            ],
+            "series_id": "45330bd2-1ffd-476f-95be-f4605a89713e",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "b6f07aa9-6909-4a1b-a8b5-ea1294783763",
+            "name": "Bangladesh Cricket Board XI vs Ireland, Practice Match",
+            "status": "Ireland won by 77 runs - Reduced to 40 overs - DLS method (Target 259)",
+            "venue": "Sylhet International Cricket Stadium, Sylhet",
+            "date": "2023-03-15",
+            "dateTimeGMT": "2023-03-15T08:30:00",
+            "teams": [
+                "Bangladesh Cricket Board XI",
+                "Ireland"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Bangladesh Cricket Board XI",
+                    "shortname": "BCBXI",
+                    "img": "https://g.cricapi.com/img/teams/1221-637878811518748535.png"
+                },
+                {
+                    "name": "Ireland",
+                    "shortname": "IRE",
+                    "img": "https://g.cricapi.com/img/teams/33-637926315578500224.png"
+                }
+            ],
+            "score": [
+                {
+                    "r": 255,
+                    "w": 7,
+                    "o": 40,
+                    "inning": "Ireland Inning 1"
+                },
+                {
+                    "r": 181,
+                    "w": 10,
+                    "o": 32.1,
+                    "inning": "Bangladesh Cricket Board XI Inning 1"
+                }
+            ],
+            "series_id": "800b83c7-0b55-47d2-bee2-3a03847414f7",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "8f784622-0949-4e77-84e5-5baad3ba136d",
+            "name": "Papua New Guinea vs United Arab Emirates, 5th Match",
+            "matchType": "odi",
+            "status": "United Arab Emirates won by 6 wkts",
+            "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+            "date": "2023-03-15",
+            "dateTimeGMT": "2023-03-15T03:45:00",
+            "teams": [
+                "Papua New Guinea",
+                "United Arab Emirates"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Papua New Guinea",
+                    "shortname": "PNG",
+                    "img": "https://g.cricapi.com/img/teams/68-637877083835752068.webp"
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "shortname": "UAE",
+                    "img": "https://g.cricapi.com/img/teams/92-637877081068315608.webp"
+                }
+            ],
+            "score": [
+                {
+                    "r": 234,
+                    "w": 7,
+                    "o": 50,
+                    "inning": "Papua New Guinea Inning 1"
+                },
+                {
+                    "r": 236,
+                    "w": 4,
+                    "o": 38.4,
+                    "inning": "United Arab Emirates Inning 1"
+                }
+            ],
+            "series_id": "638e7c98-fe04-4c84-946e-699f0abdc00c",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "f8f42aed-1e07-4118-a841-fc364619baa8",
+            "name": "Lahore Qalandars vs Multan Sultans, Qualifier (1 v 2)",
+            "matchType": "t20",
+            "status": "Multan Sultans won by 84 runs",
+            "venue": "Gaddafi Stadium, Lahore",
+            "date": "2023-03-15",
+            "dateTimeGMT": "2023-03-15T14:00:00",
+            "teams": [
+                "Lahore Qalandars",
+                "Multan Sultans"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Lahore Qalandars",
+                    "shortname": "LHQ",
+                    "img": "https://g.cricapi.com/img/teams/41-637991979136379824.webp"
+                },
+                {
+                    "name": "Multan Sultans",
+                    "shortname": "MS",
+                    "img": "https://g.cricapi.com/img/teams/50-637991992950999418.webp"
+                }
+            ],
+            "score": [
+                {
+                    "r": 160,
+                    "w": 5,
+                    "o": 20,
+                    "inning": "Multan Sultans Inning 1"
+                },
+                {
+                    "r": 76,
+                    "w": 10,
+                    "o": 14.3,
+                    "inning": "Lahore Qalandars Inning 1"
+                }
+            ],
+            "series_id": "45330bd2-1ffd-476f-95be-f4605a89713e",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "ba489186-f024-48f5-a3c0-dfa046d6c59d",
+            "name": "Bahrain vs Kuwait, 3rd place play-off",
+            "matchType": "t20",
+            "status": "Kuwait won by 6 wkts",
+            "venue": "Mission Road Ground, Mong Kok",
+            "date": "2023-03-12",
+            "dateTimeGMT": "2023-03-12T01:30:00",
+            "teams": [
+                "Bahrain",
+                "Kuwait"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Bahrain",
+                    "shortname": "BHR",
+                    "img": "https://g.cricapi.com/img/teams/8-637864920538411089.webp"
+                },
+                {
+                    "name": "Kuwait",
+                    "shortname": "KUW",
+                    "img": "https://g.cricapi.com/img/teams/621-637864920257551899.webp"
+                }
+            ],
+            "score": [
+                {
+                    "r": 135,
+                    "w": 9,
+                    "o": 20,
+                    "inning": "Bahrain Inning 1"
+                },
+                {
+                    "r": 136,
+                    "w": 4,
+                    "o": 18.1,
+                    "inning": "Kuwait Inning 1"
+                }
+            ],
+            "series_id": "4b99faf1-23d3-4376-b62a-80b6f316b140",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "34e5ec6e-5396-4af8-bad3-8221cb1ac0ba",
+            "name": "Nepal vs Papua New Guinea, 4th Match",
+            "matchType": "odi",
+            "status": "Nepal won by 9 wkts",
+            "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+            "date": "2023-03-13",
+            "dateTimeGMT": "2023-03-13T03:15:00",
+            "teams": [
+                "Nepal",
+                "Papua New Guinea"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Nepal",
+                    "shortname": "NEP",
+                    "img": "https://g.cricapi.com/img/teams/54-637877084789981539.webp"
+                },
+                {
+                    "name": "Papua New Guinea",
+                    "shortname": "PNG",
+                    "img": "https://g.cricapi.com/img/teams/68-637877083835752068.webp"
+                }
+            ],
+            "score": [
+                {
+                    "r": 95,
+                    "w": 10,
+                    "o": 32,
+                    "inning": "Papua New Guinea Inning 1"
+                },
+                {
+                    "r": 100,
+                    "w": 1,
+                    "o": 7.4,
+                    "inning": "Nepal Inning 1"
+                }
+            ],
+            "series_id": "638e7c98-fe04-4c84-946e-699f0abdc00c",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "ca3f8f24-8f77-429d-bc51-e5f204d54e5b",
+            "name": "Afghanistan vs Pakistan, 3rd T20I",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Sharjah Cricket Stadium, Sharjah",
+            "date": "2023-03-29",
+            "dateTimeGMT": "2023-03-29T02:00:00",
+            "teams": [
+                "Afghanistan",
+                "Pakistan"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Afghanistan",
+                    "shortname": "AFG",
+                    "img": "https://g.cricapi.com/img/teams/1-637877075587179422.webp"
+                },
+                {
+                    "name": "Pakistan",
+                    "shortname": "PAK",
+                    "img": "https://g.cricapi.com/img/teams/66-637877075103236690.webp"
+                }
+            ],
+            "series_id": "80eb012c-a172-4675-b70c-1659b3c7033e",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "2560ab5d-07ac-443c-81f2-5302588b24c0",
+            "name": "Afghanistan vs Pakistan, 2nd T20",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Sharjah Cricket Stadium, Sharjah",
+            "date": "2023-03-27",
+            "dateTimeGMT": "2023-03-27T02:00:00",
+            "teams": [
+                "Afghanistan",
+                "Pakistan"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Afghanistan",
+                    "shortname": "AFG",
+                    "img": "https://g.cricapi.com/img/teams/1-637877075587179422.webp"
+                },
+                {
+                    "name": "Pakistan",
+                    "shortname": "PAK",
+                    "img": "https://g.cricapi.com/img/teams/66-637877075103236690.webp"
+                }
+            ],
+            "series_id": "80eb012c-a172-4675-b70c-1659b3c7033e",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "399260af-671a-4268-931e-411ab59c8dd2",
+            "name": "Afghanistan vs Pakistan, 1st T20",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Sharjah Cricket Stadium, Sharjah",
+            "date": "2023-03-25",
+            "dateTimeGMT": "2023-03-25T02:00:00",
+            "teams": [
+                "Afghanistan",
+                "Pakistan"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Afghanistan",
+                    "shortname": "AFG",
+                    "img": "https://g.cricapi.com/img/teams/1-637877075587179422.webp"
+                },
+                {
+                    "name": "Pakistan",
+                    "shortname": "PAK",
+                    "img": "https://g.cricapi.com/img/teams/66-637877075103236690.webp"
+                }
+            ],
+            "series_id": "80eb012c-a172-4675-b70c-1659b3c7033e",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "9e3718ce-bace-4641-9cea-fa1aa9064e98",
+            "name": "Hong Kong vs Malaysia, Final",
+            "matchType": "t20",
+            "status": "Hong Kong won by 39 runs",
+            "venue": "Mission Road Ground, Mong Kok",
+            "date": "2023-03-12",
+            "dateTimeGMT": "2023-03-12T05:30:00",
+            "teams": [
+                "Hong Kong",
+                "Malaysia"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Hong Kong",
+                    "shortname": "HKG",
+                    "img": "https://g.cricapi.com/img/teams/611-637877089158155520.webp"
+                },
+                {
+                    "name": "Malaysia",
+                    "shortname": "MAL",
+                    "img": "https://g.cricapi.com/img/teams/625-637865062320348912.webp"
+                }
+            ],
+            "score": [
+                {
+                    "r": 182,
+                    "w": 8,
+                    "o": 20,
+                    "inning": "Hong Kong Inning 1"
+                },
+                {
+                    "r": 143,
+                    "w": 10,
+                    "o": 17.5,
+                    "inning": "Malaysia Inning 1"
+                }
+            ],
+            "series_id": "4b99faf1-23d3-4376-b62a-80b6f316b140",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "48ac28e6-8492-4a63-af41-61870bae5d7b",
+            "name": "Rocks vs Knights, Division 1",
+            "matchType": "test",
+            "status": "Day 3: 3rd Session - Knights won by 9 wkts",
+            "venue": "Boland Park, Paarl",
+            "date": "2023-03-12",
+            "dateTimeGMT": "2023-03-12T08:00:00",
+            "teams": [
+                "Rocks",
+                "Knights"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Knights",
+                    "shortname": "KNG",
+                    "img": "https://g.cricapi.com/img/teams/40-637992688759741358.webp"
+                },
+                {
+                    "name": "Rocks",
+                    "shortname": "ROCKS",
+                    "img": "https://g.cricapi.com/img/teams/77-637992647121043523.webp"
+                }
+            ],
+            "score": [
+                {
+                    "r": 212,
+                    "w": 10,
+                    "o": 69.4,
+                    "inning": "Rocks Inning 1"
+                },
+                {
+                    "r": 493,
+                    "w": 10,
+                    "o": 132,
+                    "inning": "Knights Inning 1"
+                },
+                {
+                    "r": 319,
+                    "w": 10,
+                    "o": 94.4,
+                    "inning": "Rocks Inning 2"
+                },
+                {
+                    "r": 39,
+                    "w": 1,
+                    "o": 6.1,
+                    "inning": "Knights Inning 2"
+                }
+            ],
+            "series_id": "5d591476-b27d-45f5-8f18-a73ab326664d",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "c4621887-dd1e-46dd-9cc1-701855c7a9e8",
+            "name": "Western Province vs Warriors, Division 1",
+            "matchType": "test",
+            "status": "Warriors won by 79 runs",
+            "venue": "Newlands, Cape Town",
+            "date": "2023-03-12",
+            "dateTimeGMT": "2023-03-12T08:00:00",
+            "teams": [
+                "Western Province",
+                "Warriors"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Warriors",
+                    "shortname": "WAR",
+                    "img": "https://g.cricapi.com/img/teams/98-637987556857963180.webp"
+                },
+                {
+                    "name": "Western Province",
+                    "shortname": "WPR",
+                    "img": "https://g.cricapi.com/img/teams/104-637987555401464222.webp"
+                }
+            ],
+            "score": [
+                {
+                    "r": 352,
+                    "w": 10,
+                    "o": 102,
+                    "inning": "Warriors Inning 1"
+                },
+                {
+                    "r": 198,
+                    "w": 10,
+                    "o": 75.2,
+                    "inning": "Western Province Inning 1"
+                },
+                {
+                    "r": 184,
+                    "w": 10,
+                    "o": 46.2,
+                    "inning": "Warriors Inning 2"
+                },
+                {
+                    "r": 259,
+                    "w": 10,
+                    "o": 71.4,
+                    "inning": "Western Province Inning 2"
+                }
+            ],
+            "series_id": "5d591476-b27d-45f5-8f18-a73ab326664d",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "eda48921-8254-49a5-861f-2e60d26b74a0",
+            "name": "Lions vs Dolphins, Division 1",
+            "matchType": "test",
+            "status": "Lions won by 3 wkts",
+            "venue": "Senwes Park, Potchefstroom",
+            "date": "2023-03-12",
+            "dateTimeGMT": "2023-03-12T08:00:00",
+            "teams": [
+                "Lions",
+                "Dolphins"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Dolphins",
+                    "shortname": "DOL",
+                    "img": "https://g.cricapi.com/img/teams/20-637993514627926036.webp"
+                },
+                {
+                    "name": "Lions",
+                    "shortname": "LIONS",
+                    "img": "https://g.cricapi.com/img/teams/43-638016114998237773.webp"
+                }
+            ],
+            "score": [
+                {
+                    "r": 329,
+                    "w": 10,
+                    "o": 93.3,
+                    "inning": "Lions Inning 1"
+                },
+                {
+                    "r": 259,
+                    "w": 10,
+                    "o": 105,
+                    "inning": "Dolphins Inning 1"
+                },
+                {
+                    "r": 222,
+                    "w": 10,
+                    "o": 47.5,
+                    "inning": "Lions Inning 2"
+                },
+                {
+                    "r": 296,
+                    "w": 7,
+                    "o": 93.1,
+                    "inning": "Dolphins Inning 2"
+                }
+            ],
+            "series_id": "5d591476-b27d-45f5-8f18-a73ab326664d",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "bcebb52a-5e4c-45e4-968a-3a993be67f83",
+            "name": "Titans vs North West, Division 1",
+            "matchType": "test",
+            "status": "Titans won by 9 wkts",
+            "venue": "SuperSport Park, Centurion",
+            "date": "2023-03-12",
+            "dateTimeGMT": "2023-03-12T08:00:00",
+            "teams": [
+                "Titans",
+                "North West"
+            ],
+            "teamInfo": [
+                {
+                    "name": "North West",
+                    "shortname": "NWEST",
+                    "img": "https://g.cricapi.com/img/teams/60-637991981808951763.webp"
+                },
+                {
+                    "name": "Titans",
+                    "shortname": "TITNS",
+                    "img": "https://g.cricapi.com/img/teams/89-637987557693726758.webp"
+                }
+            ],
+            "score": [
+                {
+                    "r": 148,
+                    "w": 10,
+                    "o": 56.2,
+                    "inning": "North West Inning 1"
+                },
+                {
+                    "r": 319,
+                    "w": 10,
+                    "o": 81.4,
+                    "inning": "Titans Inning 1"
+                },
+                {
+                    "r": 360,
+                    "w": 10,
+                    "o": 94.4,
+                    "inning": "North West Inning 2"
+                },
+                {
+                    "r": 190,
+                    "w": 1,
+                    "o": 38.3,
+                    "inning": "Titans Inning 2"
+                }
+            ],
+            "series_id": "5d591476-b27d-45f5-8f18-a73ab326664d",
+            "fantasyEnabled": true,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "aad1e73e-e9e2-42d2-978b-cd5c544f02bf",
+            "name": "Nepal vs United Arab Emirates, 3rd Match",
+            "matchType": "odi",
+            "status": "Nepal won by 177 runs",
+            "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+            "date": "2023-03-12",
+            "dateTimeGMT": "2023-03-12T03:15:00",
+            "teams": [
+                "Nepal",
+                "United Arab Emirates"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Nepal",
+                    "shortname": "NEP",
+                    "img": "https://g.cricapi.com/img/teams/54-637877084789981539.webp"
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "shortname": "UAE",
+                    "img": "https://g.cricapi.com/img/teams/92-637877081068315608.webp"
+                }
+            ],
+            "score": [
+                {
+                    "r": 248,
+                    "w": 10,
+                    "o": 49.2,
+                    "inning": "Nepal Inning 1"
+                },
+                {
+                    "r": 71,
+                    "w": 10,
+                    "o": 22.5,
+                    "inning": "United Arab Emirates Inning 1"
+                }
+            ],
+            "series_id": "638e7c98-fe04-4c84-946e-699f0abdc00c",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        }
+    ],
+    "status": "success",
+    "info": {
+        "hitsToday": 60,
+        "hitsUsed": 1,
+        "hitsLimit": 100,
+        "credits": 0,
+        "server": 2,
+        "offsetRows": 0,
+        "totalRows": 3619,
+        "queryTime": 66.0122,
+        "s": 0,
+        "cache": 0
+    }
+}
